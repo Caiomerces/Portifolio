@@ -91,30 +91,30 @@ li a:hover {
 .container-rodape label {
   margin-left: 50px;
 }
-.container-rodape input#nome {
+.entrada {
+  font-size: 17px;
+  color: rgb(255, 255, 255);
   padding: 15px;
-  background-color: #5e5d5c;
+  background-color: #4b4b4b;
   border: none;
+  border-radius: 5px;
 }
-.container-rodape input#email {
-  padding: 15px;
-  background-color: #5e5d5c;
-  border: none;
-}
-.container-rodape input#campo {
-  display: block;
-  border: none;
-  margin-top: 20px;
-  width: 900px;
-  height: 300px;
-  margin-left: 50px;
-}
+
 .container-rodape input#enviar {
+  color: white;
+  font-weight: bold;
   margin-left: 10px;
+  padding: 16px;
+  background-color: rgb(199, 90, 0);
+  border: none;
+  border-radius: 5px;
 }
 .container-rodape textarea {
   margin-top: 20px;
   margin-left: 50px;
+  width: 735px;
+  border-radius: 5px;
+  border: none;
 }
 .redessociais {
   display: flex;
